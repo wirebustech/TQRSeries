@@ -66,11 +66,13 @@
                     </div>
                 </div>
                 <div class="col-lg-7 col-md-6 col-sm-12 wow fadeIn" data-wow-delay=".5s">
-                    <h5 class="text-primary">About Us</h5>
-                    <h1 class="mb-4">About HighTech Agency And It's Innovative IT Solutions</h1>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed efficitur quis purus ut interdum. Pellentesque aliquam dolor eget urna ultricies tincidunt. Nam volutpat libero sit amet leo cursus, ac viverra eros tristique. Morbi quis quam mi. Cras vel gravida eros. Proin scelerisque quam nec elementum viverra. Suspendisse viverra hendrerit diam in tempus. Etiam gravida justo nec erat vestibulum, et malesuada augue laoreet.</p>
-                    <p class="mb-4">Pellentesque aliquam dolor eget urna ultricies tincidunt. Nam volutpat libero sit amet leo cursus, ac viverra eros tristique. Morbi quis quam mi. Cras vel gravida eros. Proin scelerisque quam nec elementum viverra. Suspendisse viverra hendrerit diam in tempus.</p>
-                    <a href="" class="btn btn-secondary rounded-pill px-5 py-3 text-white">More Details</a>
+                    <h5 class="text-primary">About TQRS</h5>
+                    <h1 class="mb-4">The Qualitative Research Series (TQRS): Bridging Gaps in Qualitative Research</h1>
+                    <p>The Qualitative Research Series (TQRS) is a foundational learning initiative organized by Rising Scholars members and experts from diverse research and academic backgrounds. Our mission is to bridge gaps in learning and understanding, making qualitative research accessible, practical, and impactful for all.</p>
+                    <p>At TQRS, we recognize the challenges faced by students and early- to mid-career researchers, especially those in the Global South. Our vision is to extend our reach to these communities, providing them with the tools, knowledge, and support needed to excel in their research endeavors.</p>
+                    <p>We are committed to simplifying the use of qualitative data, methodologies, and analysis. Through free online sessions—including webinars, hands-on training, and interactive workshops—we foster a collaborative environment where participants can learn, share, and grow together.</p>
+                    <p>Our series covers a wide range of topics, such as designing and conducting qualitative research, managing robust data, applying different methodologies, analyzing data, synthesizing and triangulating results, and interpreting and reporting findings. We believe that by empowering researchers with these skills, we contribute to the advancement of knowledge and the creation of meaningful impact in their fields.</p>
+                    <p class="mb-4">Join us on this journey to master all things qualitative research and become part of a vibrant, supportive community dedicated to research excellence.</p>
                 </div>
             </div>
         </div>

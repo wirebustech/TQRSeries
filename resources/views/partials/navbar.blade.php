@@ -27,7 +27,8 @@
                         <div class="dropdown-menu rounded">
                             <a href="{{ url('/blog') }}" class="dropdown-item {{ Request::is('blog') ? 'active' : '' }}">Our Blog</a>
                             <a href="{{ url('/team') }}" class="dropdown-item {{ Request::is('team') ? 'active' : '' }}">Our Team</a>
-                            <a href="{{ url('/testimonials') }}" class="dropdown-item {{ Request::is('testimonials') ? 'active' : '' }}">Testimonial</a>
+                            <a href="{{ url('/opportunities') }}" class="dropdown-item {{ Request::is('opportunities') ? 'active' : '' }}">Opportunities</a>
+                            <a href="{{ url('/app') }}" class="dropdown-item {{ Request::is('app') ? 'active' : '' }}">App</a>
                             <a href="{{ url('/404') }}" class="dropdown-item {{ Request::is('404') ? 'active' : '' }}">404 Page</a>
                         </div>
                     </div>
